@@ -12,6 +12,7 @@ I'm a Software Engineer <br/>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<hr>
 
 ###
 
