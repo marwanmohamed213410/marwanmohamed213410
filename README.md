@@ -8,6 +8,9 @@
 Hi! My name is Marwan Mohamed 🥷🏻 <br/>
 I'm a Software Engineer <br/>
 </h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marwanmohamed213410&left_color=forestgreen&right_color=yellow"  />
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
