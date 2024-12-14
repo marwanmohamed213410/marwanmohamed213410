@@ -9,10 +9,8 @@ Hi! My name is Marwan Mohamed 🥷🏻 <br/>
 I'm a Software Engineer <br/>
 </h3>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-<hr>
+
 
 ###
 
