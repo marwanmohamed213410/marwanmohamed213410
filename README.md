@@ -19,7 +19,7 @@ I'm a Software Engineer <br/>
   <a href="https://www.linkedin.com/in/marwan-mohamed-223818m20" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin"  />
   </a>
-  <a href="marwanmohamed2238@gmail.com" target="_blank">
+  <a href="mailto:marwanmohamed2238@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/MMohamed6718" target="_blank">
