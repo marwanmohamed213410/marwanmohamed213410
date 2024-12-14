@@ -42,7 +42,7 @@ I'm Marwan Mohamed, a student at Borg El-Arab Technological University. I starte
 <!-- LINKS -->
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1NgMyFTM0BJQE_gOHZe3mpGNi52rZVxWV/view?usp=sharing)
 <h3 align="left">
-    Catch me:
+    Contact me:
 </h3>
 
 <div>
