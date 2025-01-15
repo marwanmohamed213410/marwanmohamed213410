@@ -30,15 +30,6 @@ I'm Marwan Mohamed, a student at Borg El-Arab Technological University. I starte
 
 ###
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marwanmohamed213410&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-
 <!-- LINKS -->
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1NgMyFTM0BJQE_gOHZe3mpGNi52rZVxWV/view?usp=sharing)
 <h3 align="left">
