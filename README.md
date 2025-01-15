@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-Hi! My name is Marwan Mohamed 🥷🏻 <br/>
+Hi! My name is Marwan Mohamed  <br/>
 I'm a Software Engineer <br/>
 </h3>
 <div align="center">
