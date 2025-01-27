@@ -22,8 +22,9 @@ I'm Marwan Mohamed, a student at Borg El-Arab Technological University. I starte
 </p>
 
 ###
-
+<div align="center">
 <img align="right" width="300" src="https://github.com/SHEFOO10/SHEFOO10/blob/main/giphy.gif">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marwanmohamed213410&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
