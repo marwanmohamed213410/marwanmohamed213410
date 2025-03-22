@@ -4,7 +4,7 @@
   <img height="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQxeGdweG52Njg3aWV2MnhxZWJnc3gzM2Z2bGdxZGxvOXp1Z2ZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VXJWhaO7afRe/giphy.gif" alt="one punch man"/>
 </div>
 
-<h2 align="center">👋 Hi! I'm Marwan Mohamed</h2>
+<h2 align="center">Hi! I'm Marwan Mohamed</h2>
 <p align="center">
   <strong>Software Engineer | Innovator | Problem Solver</strong>
 </p>
